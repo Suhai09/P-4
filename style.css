@@ -45,7 +45,7 @@ a:hover {
 }
 
 .bloc-lg {
-    padding: 100px 50px;
+    padding: 45px 50px;
 }
 
 .bloc-md {
@@ -772,7 +772,6 @@ h4 {
 .tc-white {
     color:white!important;
     text-shadow: 1px 0px 10px aliceblue;
-    font-size: 30px;
 }
 
 .btn-atomic-tangerine {
